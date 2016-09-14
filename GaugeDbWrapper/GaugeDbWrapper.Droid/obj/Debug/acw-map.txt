@@ -1,0 +1,4 @@
+GaugeDbWrapper.Droid.MainActivity, GaugeDbWrapper.Droid;md5832872fe3fddc3d28a4b60b9b91d6839.MainActivity
+GaugeDbWrapper.Droid.MainActivity, GaugeDbWrapper.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5832872fe3fddc3d28a4b60b9b91d6839.MainActivity
+GaugeDbWrapper.Droid.MainActivity;md5832872fe3fddc3d28a4b60b9b91d6839.MainActivity
+gaugedbwrapper.droid.MainActivity;md5832872fe3fddc3d28a4b60b9b91d6839.MainActivity

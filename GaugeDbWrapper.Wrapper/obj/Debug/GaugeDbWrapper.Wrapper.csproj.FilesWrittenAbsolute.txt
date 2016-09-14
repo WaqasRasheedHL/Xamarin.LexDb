@@ -1,0 +1,6 @@
+/Users/waqasr-c/Downloads/GaugeDbWrapper/GaugeDbWrapper.Wrapper/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/waqasr-c/Downloads/GaugeDbWrapper/GaugeDbWrapper.Wrapper/bin/Debug/GaugeDbWrapper.Wrapper.dll.mdb
+/Users/waqasr-c/Downloads/GaugeDbWrapper/GaugeDbWrapper.Wrapper/bin/Debug/GaugeDbWrapper.Wrapper.dll
+/Users/waqasr-c/Downloads/GaugeDbWrapper/GaugeDbWrapper.Wrapper/obj/Debug/GaugeDbWrapper.Wrapper.dll
+/Users/waqasr-c/Downloads/GaugeDbWrapper/GaugeDbWrapper.Wrapper/obj/Debug/GaugeDbWrapper.Wrapper.dll.mdb
+/Users/waqasr-c/Downloads/GaugeDbWrapper/GaugeDbWrapper.Wrapper/bin/Debug/Lex.Db.dll

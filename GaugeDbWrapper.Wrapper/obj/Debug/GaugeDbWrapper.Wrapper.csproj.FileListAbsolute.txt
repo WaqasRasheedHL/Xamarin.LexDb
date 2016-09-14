@@ -1,0 +1,16 @@
+c:\users\waqas\documents\visual studio 2015\Projects\GaugeDbWrapper\GaugeDbWrapper.Wrapper\bin\Debug\GaugeDbWrapper.Wrapper.dll
+c:\users\waqas\documents\visual studio 2015\Projects\GaugeDbWrapper\GaugeDbWrapper.Wrapper\bin\Debug\GaugeDbWrapper.Wrapper.pdb
+c:\users\waqas\documents\visual studio 2015\Projects\GaugeDbWrapper\GaugeDbWrapper.Wrapper\bin\Debug\Lex.Db.dll
+c:\users\waqas\documents\visual studio 2015\Projects\GaugeDbWrapper\GaugeDbWrapper.Wrapper\bin\Debug\Lex.Db.xml
+c:\users\waqas\documents\visual studio 2015\Projects\GaugeDbWrapper\GaugeDbWrapper.Wrapper\obj\Debug\GaugeDbWrapper.Wrapper.csprojResolveAssemblyReference.cache
+c:\users\waqas\documents\visual studio 2015\Projects\GaugeDbWrapper\GaugeDbWrapper.Wrapper\obj\Debug\GaugeDbWrapper.Wrapper.dll
+c:\users\waqas\documents\visual studio 2015\Projects\GaugeDbWrapper\GaugeDbWrapper.Wrapper\obj\Debug\GaugeDbWrapper.Wrapper.pdb
+\\vmware-host\Shared Folders\Desktop\Sample Projects\Projects\GaugeDbWrapper\GaugeDbWrapper\GaugeDbWrapper.Wrapper\obj\Debug\GaugeDbWrapper.Wrapper.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Sample Projects\Projects\GaugeDbWrapper\GaugeDbWrapper\GaugeDbWrapper.Wrapper\obj\Debug\GaugeDbWrapper.Wrapper.dll
+\\vmware-host\Shared Folders\Desktop\Sample Projects\Projects\GaugeDbWrapper\GaugeDbWrapper\GaugeDbWrapper.Wrapper\obj\Debug\GaugeDbWrapper.Wrapper.pdb
+\\vmware-host\Shared Folders\Desktop\Sample Projects\Projects\GaugeDbWrapper\GaugeDbWrapper\GaugeDbWrapper.Wrapper\bin\Debug\GaugeDbWrapper.Wrapper.dll
+\\vmware-host\Shared Folders\Desktop\Sample Projects\Projects\GaugeDbWrapper\GaugeDbWrapper\GaugeDbWrapper.Wrapper\bin\Debug\GaugeDbWrapper.Wrapper.pdb
+\\vmware-host\Shared Folders\Desktop\Sample Projects\Projects\GaugeDbWrapper\GaugeDbWrapper\GaugeDbWrapper.Wrapper\bin\Debug\Lex.Db.dll
+\\vmware-host\Shared Folders\Desktop\Sample Projects\Projects\GaugeDbWrapper\GaugeDbWrapper\GaugeDbWrapper.Wrapper\bin\Debug\Lex.Db.xml
+\\vmware-host\Shared Folders\Desktop\Sample Projects\Projects\GaugeDbWrapper\GaugeDbWrapper\GaugeDbWrapper.Wrapper\obj\Debug\GaugeDbWrapper.Wrapper.dll.mdb
+\\vmware-host\Shared Folders\Desktop\Sample Projects\Projects\GaugeDbWrapper\GaugeDbWrapper\GaugeDbWrapper.Wrapper\bin\Debug\GaugeDbWrapper.Wrapper.dll.mdb
