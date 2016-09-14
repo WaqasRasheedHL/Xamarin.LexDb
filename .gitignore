@@ -1,0 +1,9 @@
+UpgradeLog*
+GaugeDbWrapper.iOS/bin/*
+GaugeDbWrapper.iOS/obj/*
+GaugeDbWrapper.Droid/bin/*
+GaugeDbWrapper.Droid/obj/*
+GaugeDbWrapper.WinPhone/bin/*
+GaugeDbWrapper.WinPhone/bin/*
+*.userprefs
+GaugeDbWrapper.userprefs
